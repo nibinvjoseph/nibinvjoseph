@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nibinvjoseph
+- 👋 Hi, I’m Nibin Joseph
 - 👀 I’m interested in electronics, AI and automation
 - 🌱 I’m currently learning electronics and communications engineering at VIT Vellore
 - 💞️ I’m looking to collaborate on projects where I can learn as I am a beginner. 
